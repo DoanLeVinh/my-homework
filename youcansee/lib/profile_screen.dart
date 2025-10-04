@@ -15,7 +15,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
   final double _avatarSize = 120;
 
   // Thông tin có thể chỉnh sửa
-  String _userName = 'Johan Smith';
+  String _userName = 'Vinh';
   String _location = 'Ho Chi Minh City, Vietnam';
   String _email = 'vinhdl1636@ut.edu.vn';
   String _phone = '+84 123 456 789';
